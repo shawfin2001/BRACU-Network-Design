@@ -78,7 +78,10 @@ This repository documents an academic network simulation. The actual behavior sh
 
 ## Contributors
 
-The original project report lists the project group. If publishing this repository publicly, consider whether you want to include student IDs and other personal details in the report.
+- Shawfin Alam
+- Mohammad Mushfikur Rahman
+- Iftekharul Hakim
+- B M Muktadir Wafi
 
 ## License
 
